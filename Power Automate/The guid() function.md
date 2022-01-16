@@ -9,6 +9,5 @@ The formula looks as follows:
 ```yaml
 guid('D')
 ```
+
 You pass a specific letter depending on how you want your guid to be formatted. D is the default but N, B, P or X are also available.
-
-
